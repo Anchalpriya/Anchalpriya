@@ -23,16 +23,17 @@ Full-featured e-commerce app with product listings, authentication, admin panel
 #### 📄 Portfolio Website
 Modern portfolio site with animated UI and contact form  
 `Css | Javascript | Html`  
-💻 [Code](https://github.com/your-username/portfolio)
+💻 [Code](https://github.com/Anchalpriya/portfolio.git)
+
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](http://www.linkedin.com/in/anchal-priya-a08a13256)
-[![Gmail](mailto:priyaanchal383@gmail.com)
-[![Portfolio](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourusername)](http://www.linkedin.com/in/anchal-priya-a08a13256)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:priyaanchal383@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel)](https://github.com/Anchalpriya/portfolio)
 
----
+
 
 <!---
 Anchalpriya/Anchalpriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
